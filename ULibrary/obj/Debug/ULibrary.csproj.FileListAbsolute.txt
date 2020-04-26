@@ -1,0 +1,7 @@
+D:\Android\Xamarin\ULibrary\bin\Debug\ULibrary.dll
+D:\Android\Xamarin\ULibrary\bin\Debug\ULibrary.pdb
+D:\Android\Xamarin\ULibrary\obj\Debug\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.csprojAssemblyReference.cache
+D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.csproj.CoreCompileInputs.cache
+D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.dll
+D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.pdb
