@@ -29,7 +29,7 @@ namespace Android.Device {
 		// Metadata.xml XPath field reference: path="/api/package[@name='android.device']/class[@name='ScanManager']/field[@name='DECODE_DATA_TAG']"
 		[Register ("DECODE_DATA_TAG")]
 		public const string DecodeDataTag = (string) "barcode";
-		static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/ScanManager", typeof (ScanManager));
+		internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/ScanManager", typeof (ScanManager));
 		internal static new IntPtr class_ref {
 			get {
 				return _members.JniPeerType.PeerReference.Handle;

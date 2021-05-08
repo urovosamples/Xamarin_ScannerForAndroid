@@ -11,26 +11,21 @@
     "MonoAndroid,Version=v9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Android\\Xamarin\\ULibrary\\ULibrary.csproj",
+      "projectUniqueName": "D:\\Xamarin\\Xamarin_ScannerForAndroid\\ULibrary\\ULibrary.csproj",
       "projectName": "ULibrary",
-      "projectPath": "D:\\Android\\Xamarin\\ULibrary\\ULibrary.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Android\\Xamarin\\ULibrary\\obj\\",
+      "projectPath": "D:\\Xamarin\\Xamarin_ScannerForAndroid\\ULibrary\\ULibrary.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "D:\\Xamarin\\Xamarin_ScannerForAndroid\\ULibrary\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"

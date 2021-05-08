@@ -12,7 +12,6 @@
       final="false"
       name="ScanManager"
       jni-signature="Landroid/device/ScanManager;"
-      source-file-name="ScanManager.java"
       static="false"
       visibility="public">
       <constructor
@@ -949,7 +948,6 @@
       final="true"
       name="Constants"
       jni-signature="Landroid/device/scanner/configuration/Constants;"
-      source-file-name="Constants.java"
       static="false"
       visibility="public">
       <constructor
@@ -971,7 +969,6 @@
       final="true"
       name="Constants.Symbology"
       jni-signature="Landroid/device/scanner/configuration/Constants$Symbology;"
-      source-file-name="Constants.java"
       static="true"
       visibility="public">
       <constructor
@@ -1656,7 +1653,6 @@
       final="true"
       name="PropertyID"
       jni-signature="Landroid/device/scanner/configuration/PropertyID;"
-      source-file-name="PropertyID.java"
       static="false"
       visibility="public">
       <constructor
@@ -4460,7 +4456,6 @@
       final="true"
       name="Symbology"
       jni-signature="Landroid/device/scanner/configuration/Symbology;"
-      source-file-name="Symbology.java"
       static="false"
       visibility="public">
       <method
@@ -5170,7 +5165,6 @@
       final="true"
       name="Triggering"
       jni-signature="Landroid/device/scanner/configuration/Triggering;"
-      source-file-name="Triggering.java"
       static="false"
       visibility="public">
       <method
@@ -5270,7 +5264,6 @@
       final="true"
       name="BuildConfig"
       jni-signature="Landroid/device/sdk/BuildConfig;"
-      source-file-name="BuildConfig.java"
       static="false"
       visibility="public">
       <constructor

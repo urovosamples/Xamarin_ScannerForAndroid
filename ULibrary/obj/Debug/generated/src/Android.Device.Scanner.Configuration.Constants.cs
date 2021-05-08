@@ -217,7 +217,7 @@ namespace Android.Device.Scanner.Configuration {
 			// Metadata.xml XPath field reference: path="/api/package[@name='android.device.scanner.configuration']/class[@name='Constants.Symbology']/field[@name='UPCE1']"
 			[Register ("UPCE1")]
 			public const int Upce1 = (int) 47;
-			static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/scanner/configuration/Constants$Symbology", typeof (Symbology));
+			internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/scanner/configuration/Constants$Symbology", typeof (Symbology));
 			internal static new IntPtr class_ref {
 				get {
 					return _members.JniPeerType.PeerReference.Handle;
@@ -258,7 +258,7 @@ namespace Android.Device.Scanner.Configuration {
 
 		}
 
-		static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/scanner/configuration/Constants", typeof (Constants));
+		internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/scanner/configuration/Constants", typeof (Constants));
 		internal static new IntPtr class_ref {
 			get {
 				return _members.JniPeerType.PeerReference.Handle;

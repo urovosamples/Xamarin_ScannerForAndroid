@@ -5,3 +5,9 @@ D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.csprojAssemblyReference.cache
 D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.csproj.CoreCompileInputs.cache
 D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.dll
 D:\Android\Xamarin\ULibrary\obj\Debug\ULibrary.pdb
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\bin\Debug\ULibrary.dll
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\bin\Debug\ULibrary.pdb
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\obj\Debug\ULibrary.csprojAssemblyReference.cache
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\obj\Debug\ULibrary.csproj.CoreCompileInputs.cache
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\obj\Debug\ULibrary.dll
+D:\Xamarin\Xamarin_ScannerForAndroid\ULibrary\obj\Debug\ULibrary.pdb

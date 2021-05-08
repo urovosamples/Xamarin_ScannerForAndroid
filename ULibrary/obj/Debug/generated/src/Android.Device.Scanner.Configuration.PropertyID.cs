@@ -881,7 +881,7 @@ namespace Android.Device.Scanner.Configuration {
 		// Metadata.xml XPath field reference: path="/api/package[@name='android.device.scanner.configuration']/class[@name='PropertyID']/field[@name='WEDGE_KEYBOARD_TYPE']"
 		[Register ("WEDGE_KEYBOARD_TYPE")]
 		public const int WedgeKeyboardType = (int) 70001;
-		static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/scanner/configuration/PropertyID", typeof (PropertyID));
+		internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/scanner/configuration/PropertyID", typeof (PropertyID));
 		internal static new IntPtr class_ref {
 			get {
 				return _members.JniPeerType.PeerReference.Handle;

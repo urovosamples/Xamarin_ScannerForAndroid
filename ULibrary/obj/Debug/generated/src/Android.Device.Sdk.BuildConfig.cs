@@ -41,7 +41,7 @@ namespace Android.Device.Sdk {
 		// Metadata.xml XPath field reference: path="/api/package[@name='android.device.sdk']/class[@name='BuildConfig']/field[@name='VERSION_NAME']"
 		[Register ("VERSION_NAME")]
 		public const string VersionName = (string) "1.0";
-		static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/sdk/BuildConfig", typeof (BuildConfig));
+		internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/sdk/BuildConfig", typeof (BuildConfig));
 		internal static new IntPtr class_ref {
 			get {
 				return _members.JniPeerType.PeerReference.Handle;

@@ -5,14 +5,14 @@
   </PropertyGroup>
   <!-- Classes -->
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.ScanManager.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.Scanner.Configuration.Constants.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.Scanner.Configuration.PropertyID.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.Scanner.Configuration.Symbology.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.Scanner.Configuration.Triggering.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Android.Device.Sdk.BuildConfig.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Java.Interop.__TypeRegistrations.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)__NamespaceMapping__.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.ScanManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.Scanner.Configuration.Constants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.Scanner.Configuration.PropertyID.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.Scanner.Configuration.Symbology.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.Scanner.Configuration.Triggering.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Android.Device.Sdk.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
   </ItemGroup>
   <!-- Enums -->
   <ItemGroup />

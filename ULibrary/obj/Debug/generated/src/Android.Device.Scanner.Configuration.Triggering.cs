@@ -45,7 +45,7 @@ namespace Android.Device.Scanner.Configuration {
 				return global::Java.Lang.Object.GetObject<global::Android.Device.Scanner.Configuration.Triggering> (__v.Handle, JniHandleOwnership.TransferLocalRef);
 			}
 		}
-		static readonly JniPeerMembers _members = new XAPeerMembers ("android/device/scanner/configuration/Triggering", typeof (Triggering));
+		internal    new     static  readonly    JniPeerMembers  _members    = new XAPeerMembers ("android/device/scanner/configuration/Triggering", typeof (Triggering));
 		internal static new IntPtr class_ref {
 			get {
 				return _members.JniPeerType.PeerReference.Handle;
